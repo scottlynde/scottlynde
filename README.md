@@ -8,7 +8,7 @@ Visionary business leader and strategist with **25+ years** of experience drivin
 
 ## 🔗 Connect
 
-[![Website](https://img.shields.io/badge/Website-ScottLynde.com-0078D4?style=flat&logo=internet-explorer&logoColor=white)](https://ScottLynde.com)
+[![Website](https://img.shields.io/badge/Website-ScottLynde.com-0078D4?style=flat&logo=jordan&logoColor=white)](https://ScottLynde.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scottlynde-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/scottlynde/)
 [![GitHub](https://img.shields.io/badge/GitHub-scottlynde-181717?style=flat&logo=github&logoColor=white)](https://github.com/scottlynde)
 
